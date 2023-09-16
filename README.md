@@ -1,4 +1,4 @@
-# Flu-vaccine-uptake
+# Flu-vaccine-uptake ( Competition link : https://www.drivendata.org/competitions/66/flu-shot-learning/leaderboard/ )
 Prediction and Analysis of H1N1 and Seasonal Flu Vaccine Uptake
 Table of Contents
 Abstract
