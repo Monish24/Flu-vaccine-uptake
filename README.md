@@ -25,6 +25,8 @@ To ensure the training features and target labels are correctly combined, we mer
 Detecting Missing Values <a name="detecting-missing-values"></a>
 We conducted a thorough analysis of missing values to identify potential issues with the data. Key findings regarding missing values in various features were identified:
 
+![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/ded0b53b-6718-45fd-a809-9b84ad30c4de)
+
 doctor recc h1n1 and doctor recc seasonal: Both features had 2160 missing values.
 health insurance: This feature had the highest number of missing values (12,274).
 education, income poverty, marital status, rent or own, employment status, employment industry, and employment occupation: These features were related to the socio-economic background of respondents and had missing values, indicating incomplete data.
@@ -47,7 +49,6 @@ We applied classification techniques, including ensemble methods, to predict vac
 Utilized models like XGBoost, LGBM, CatBoost, and GBM.
 Employed ensemble methods to combine model predictions for robustness and accuracy.
 Evaluated models using the mean area under the receiver operating characteristic curve (AUC) with 5-fold cross-validation.
-Approach 1 (Monish Shah) <a name="approach-1-monish-shah"></a>
 Findings from Data Analysis <a name="findings-from-data-analysis"></a>
 Key features with missing values were identified.
 Correlation matrices revealed relationships among features with missing values.
@@ -58,8 +59,15 @@ Model Performance and Results <a name="model-performance-and-results"></a>
 AUC scores for models, including LGBoost, XGBoost, CatBoost, GBM, and the ensemble, were calculated.
 XGBoost outperformed other models for seasonal vaccination prediction, while CatBoost performed best for H1N1 vaccination prediction.
 The ensemble approach achieved a high AUC score of 0.8637, demonstrating robust and balanced predictions.
+
+![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/496b52ff-3a6f-46fd-8610-722e859fc79b)
+
 Conclusion <a name="conclusion"></a>
 In conclusion, our study analyzed and predicted H1N1 and seasonal flu vaccine uptake using machine learning. Key findings included the importance of doctor recommendations and respondents' perceptions of vaccine risk and efficacy in predicting vaccine uptake. Vulnerable populations, such as those aged 65 and above or with annual incomes below $75,000, were more likely to get vaccinated.
+
+![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/c82b7479-1b9c-4001-94ba-0b322a562ad4)
+![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/00f59df8-43b8-4bc7-a8f7-936b2c7f2c69)
+
 
 Future Improvements <a name="future-improvements"></a>
 We suggest the following future improvements:
