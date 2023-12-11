@@ -6,7 +6,7 @@ Data Analysis
 Merging Data
 Detecting Missing Values
 Data Pre-processing
-Addressing Missing Values
+Addressing Missing Value
 Feature Engineering
 Classification
 Approach 1 (Monish Shah)
