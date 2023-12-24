@@ -62,7 +62,7 @@ The ensemble approach achieved a high AUC score of 0.8637, demonstrating robust 
 
 ![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/496b52ff-3a6f-46fd-8610-722e859fc79b)
 
-Conclusion <a name="conclusion"></a>
+Conclusion: <a name="conclusion"></a>
 In conclusion, our study analyzed and predicted H1N1 and seasonal flu vaccine uptake using machine learning. Key findings included the importance of doctor recommendations and respondents' perceptions of vaccine risk and efficacy in predicting vaccine uptake. Vulnerable populations, such as those aged 65 and above or with annual incomes below $75,000, were more likely to get vaccinated.
 
 ![image](https://github.com/Monish24/Flu-vaccine-uptake/assets/54630644/c82b7479-1b9c-4001-94ba-0b322a562ad4)
