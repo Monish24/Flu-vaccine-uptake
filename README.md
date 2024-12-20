@@ -9,7 +9,6 @@ Data Pre-processing
 Addressing Missing Values
 Feature Engineering
 Classification
-Approach 1 (Monish Shah)
 Findings from Data Analysis
 Data Pre-processing Results
 Model Performance and Results
